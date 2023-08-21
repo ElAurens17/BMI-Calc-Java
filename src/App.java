@@ -1,5 +1,3 @@
-package App;
-
 import java.util.Scanner;
 import java.lang.Math;
 
